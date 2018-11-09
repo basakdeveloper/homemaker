@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	
+	<modelVersion>4.0.0</modelVersion>
+	
+	<groupId>com.basak.homemaker</groupId>
+	<artifactId>homemaker</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	
+	<name>My Apna Ghar</name>
+	<description>My Apna Ghar</description>
+	
+	<modules>
+		<module>homemaker-config-server</module>
+		<module>homemaker-expense-service</module>
+	</modules>
+	
+</project>
